@@ -1,0 +1,2 @@
+1	admin	admin	1234567890	河南	1
+2	adimn	bb232666cd0aeea80029c27e3c01582f	123	河南	0
